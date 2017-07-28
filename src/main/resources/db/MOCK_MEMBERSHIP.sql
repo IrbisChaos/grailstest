@@ -1,0 +1,1 @@
+insert into MEMBERSHIP (id, version, account_id, login, prsn_id, org_id, ts_beg, ts_end) values (1, 0, 1, 'test111', 1, null, '2016-01-01', '9999-12-31');
